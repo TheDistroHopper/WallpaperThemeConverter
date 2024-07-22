@@ -1,4 +1,4 @@
-# [Wallpaper Theme Converter](https://notneelpatel.github.io/WallpaperThemeConverter)
+# Wallpaper Theme Converter
 
 ### A webpage that converts any image to any colour palette.
 
