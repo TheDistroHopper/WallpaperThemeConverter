@@ -31,4 +31,4 @@ Inspired by [Gruvbox Factory](https://github.com/paulopacitti/gruvbox-factory) a
 
 ## How it works
 
-I wrote a blog post in 2022 explaining more about how it works. Check it out: https://notneelpatel.github.io/blog/2022-05-10-wallpaper-theme-converter.html
+Neel wrote a blog post in 2022 explaining more about how it works. Check it out: https://notneelpatel.github.io/blog/2022-05-10-wallpaper-theme-converter.html
